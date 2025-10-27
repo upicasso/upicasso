@@ -3,7 +3,7 @@
 I'm a software developer and creative technologist who enjoys building useful tools and beautiful experiences. I like exploring new ideas, learning, and collaborating on open-source projects.
 
 ## About Me
-- 🔭 Currently working on: Effective Plants [((https://github.com/upicasso/effectiveplants))]
+- 🔭 Currently working on: Effective Plants [https://github.com/upicasso/effectiveplants]
 - 🌱 Learning: modern web frameworks, system design, and UX
 - 👯 Open to collaborating on JavaScript/PHP, Python, and security projects
 - 💬 Ask me about: I’m a backend developer who has experience in developing different kinds of applications. I’m
