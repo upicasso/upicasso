@@ -3,16 +3,17 @@
 I'm a software developer and creative technologist who enjoys building useful tools and beautiful experiences. I like exploring new ideas, learning, and collaborating on open-source projects.
 
 ## About Me
-- 🔭 Currently working on: [project-name](https://github.com/upicasso/project-name)
+- 🔭 Currently working on: Effective Plants [((https://github.com/upicasso/effectiveplants))]
 - 🌱 Learning: modern web frameworks, system design, and UX
-- 👯 Open to collaborating on JavaScript/TypeScript, Python, and design-focused projects
-- 💬 Ask me about: frontend development, APIs, and creative coding
-- ⚡ Fun: digital art, generative visuals, and illustration
+- 👯 Open to collaborating on JavaScript/PHP, Python, and security projects
+- 💬 Ask me about: I’m a backend developer who has experience in developing different kinds of applications. I’m
+interested in providing high-quality software products that solve business problems. My
+interest isn’t only backend, but also frontend, administration, and design.
 
 ## Skills
-- Languages: PHP, JavaScript, Python, HTML, CSS, Bash
-- Frameworks & Tools: Symfony, Node.js, SASS, Git
-- Other: REST APIs, GraphQL, Unit/integration testing, CI/CD, Linux administration
+- Languages: PHP, JavaScript, Python, HTML, CSS, Bash, SQL
+- Frameworks & Tools: Symfony, Node.js, SASS, Git, Bootstrap, PHPUnit, Wordpress, Magento
+- Other: REST APIs, GraphQL, Unit/integration testing, CI/CD, Linux administration, MySQL, Selenium, Docker, Swagger
 
 ## Featured Projects
 - [project-name](https://github.com/upicasso/project-name) — short 1–2 sentence description of what it does.
