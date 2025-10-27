@@ -10,9 +10,9 @@ I'm a software developer and creative technologist who enjoys building useful to
 - ⚡ Fun: digital art, generative visuals, and illustration
 
 ## Skills
-- Languages: JavaScript / TypeScript, Python, HTML, CSS
-- Frameworks & Tools: React, Next.js, Node.js, Vite, Tailwind CSS, Git
-- Other: REST APIs, GraphQL, unit/integration testing, CI/CD
+- Languages: PHP, JavaScript, Python, HTML, CSS, Bash
+- Frameworks & Tools: Symfony, Node.js, SASS, Git
+- Other: REST APIs, GraphQL, Unit/integration testing, CI/CD, Linux administration
 
 ## Featured Projects
 - [project-name](https://github.com/upicasso/project-name) — short 1–2 sentence description of what it does.
