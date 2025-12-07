@@ -10,7 +10,7 @@ I'm a software developer and creative technologist who enjoys building useful to
 
 ## Skills
 - Languages: PHP, JavaScript, Python, HTML, CSS, Bash, SQL
-- Frameworks & Tools: Symfony, Node.js, SASS, Git, Bootstrap, PHPUnit, Wordpress, Magento
+- Frameworks & Tools: Symfony, Node.js, SASS, Git, Bootstrap, PHPUnit, WordPress, Magento
 - Other: REST APIs, GraphQL, Unit/integration testing, CI/CD, Linux administration, MySQL, Selenium, Docker, Swagger
 
 <!--## Featured Projects
@@ -25,9 +25,8 @@ I'm a software developer and creative technologist who enjoys building useful to
 -->
 
 ## Contact
-- Email: your-email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
+- Email: cs5ys7b2@anonaddy.me
+- LinkedIn: [Vasyl Tarasov](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/vasyl-tarasov-22540039a/))
 
 ---
 
