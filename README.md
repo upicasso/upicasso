@@ -25,7 +25,6 @@ I'm a software developer and creative technologist who enjoys building useful to
 
 ## Contact
 - Email: cs5ys7b2@anonaddy.me
-- LinkedIn: [Vasyl Tarasov](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/vasyl-tarasov-22540039a/))
 
 ---
 
