@@ -3,7 +3,6 @@
 I'm a software developer and creative technologist who enjoys building useful tools and beautiful experiences. I like exploring new ideas, learning, and collaborating on open-source projects.
 
 ## About Me
-- 🔭 Currently working on: Effective Plants [https://github.com/upicasso/effectiveplants]
 - 🌱 Learning: modern web frameworks, system design, security, IoT.
 - 👯 Open to collaborating on JavaScript/PHP, Python, and security projects
 - 💬 Ask me about: My primary professional commercial activity involves developing logic, various APIs, and creating systems for automation, ensuring their high quality and reliability, as well as deploying and maintaining their stable operation using Symfony and PHP. In addition, my skill set includes frontend application development, server and network configuration, as well as hobbies related to information security, server administration, creating IoT devices, and projects with Raspberry Pi.
